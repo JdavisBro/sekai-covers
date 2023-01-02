@@ -1,0 +1,32 @@
+body {
+    font-family: Tahoma, sans-serif;
+}
+
+td:before {
+    content: "	 	 ";
+}
+
+td:after {
+    content: "	 	 ";
+}
+
+td:nth-child(n+3) {
+    min-width: 15%;
+}
+
+tr {
+    transition: 200ms;
+    height: 2em;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(0,0,0,0.09);
+}
+
+tr:hover {
+    background-color: rgba(0,0,255,0.07);
+}
+
+tr:nth-child(even):hover {
+    background-color: rgba(0,0,200,0.13);
+}

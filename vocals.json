@@ -1,0 +1,520 @@
+{
+    "2022-01-12": {
+        "songs": [
+            {
+                "name": "Showtime Ruler",
+                "covers": [
+                    "Tsukasa Tenma",
+                    "Rui Kamishiro"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1481123203200159746"
+    },
+    "2022-01-21": {
+        "songs": [
+            {
+                "name": "Worldwide Wonder",
+                "covers": [
+                    "Hatsune Miku (Virtual Singer Ver.)"
+                ]
+            },
+            {
+                "name": "Teo",
+                "covers": [
+                    "Hatsune Miku, Megurine Luka"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1484386041616551937"
+    },
+    "2022-02-09": {
+        "songs": [
+            {
+                "name": "Charles",
+                "covers": [
+                    "Kagamine Len, KAITO"
+                ]
+            },
+            {
+                "name": "Mirai",
+                "covers": [
+                    "Hatsune Miku (Virtual Singer Ver.)",
+                    "Akito Shinonome",
+                    "Toya Aoyagi"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1491271659676114944"
+    },
+    "2022-02-18": {
+        "songs": [
+            {
+                "name": "Kanadetomosusora",
+                "covers": [
+                    "Hatsune Miku (Virtual Singer Ver.)"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1494532030641897473"
+    },
+    "2022-02-28": {
+        "songs": [
+            {
+                "name": "Flyer!",
+                "covers": [
+                    "flower (Virtual Singer Ver.)",
+                    "Hatsune Miku"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1498155532108300291"
+    },
+    "2022-03-30": {
+        "songs": [
+            {
+                "name": "Lost One's Weeping",
+                "covers": [
+                    "Kagamine Len"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1509026560258371584"
+    },
+    "2022-04-21": {
+        "songs": [
+            {
+                "name": "Dance Robot Dance",
+                "covers": [
+                    "Hatsune Miku, Kagamine Rin, Megurine Luka (Virtual Singer Ver.)"
+                ]
+            },
+            {
+                "name": "Ghost Rule",
+                "covers": [
+                    "Kagamine Rin, Kagamine Len",
+                    "Megurine Luka, MEIKO"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1516965327967780864"
+    },
+    "2022-05-10": {
+        "songs": [
+            {
+                "name": "Hibana -Reloaded-",
+                "covers": [
+                    "Kagamine Rin"
+                ]
+            },
+            {
+                "name": "Peaky Peaky",
+                "covers": [
+                    "Hatsune Miku, Kagamine Rin (Virtual Singer Ver.)"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1523847367744974848"
+    },
+    "2022-05-20": {
+        "songs": [
+            {
+                "name": "Shinpakusuu♯0822",
+                "covers": [
+                    "Ichika Hoshino",
+                    "Honami Mochizuki"
+                ]
+            },
+            {
+                "name": "Metamo Re:born",
+                "covers": [
+                    "Kagamine Rin (Virtual Singer Ver.)",
+                    "Shizuku Hinomori"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1527471278537740289"
+    },
+    "2022-05-31": {
+        "songs": [
+            {
+                "name": "Nomad",
+                "covers": [
+                    "Ena Shinonome"
+                ]
+            },
+            {
+                "name": "Tricologe",
+                "covers": [
+                    "Kanade Yoisaki"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1531459691465048064"
+    },
+    "2022-06-10": {
+        "songs": [
+            {
+                "name": "Ame to Petra",
+                "covers": [
+                    "Toya Aoyagi"
+                ]
+            },
+            {
+                "name": "Alter Ego",
+                "covers": [
+                    "An Shiraishi",
+                    "Akito Shinonome",
+                    "Toya Aoyagi"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1535080895367233536"
+    },
+    "2022-06-20": {
+        "songs": [
+            {
+                "name": "88☆彡",
+                "covers": [
+                    "Tsukasa Tenma, Nene Kusanagi",
+                    "Emu Otori, Rui Kamishiro"
+                ]
+            },
+            {
+                "name": "Asagao no Chiru Koro ni",
+                "covers": [
+                    "Honami Mochizuki"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1593424457007132672"
+    },
+    "2022-06-30": {
+        "songs": [
+            {
+                "name": "STAGE OF SEKAI",
+                "covers": [
+                    "Hatsune Miku (Virtual Singer Ver.)"
+                ]
+            },
+            {
+                "name": "drop pop candy",
+                "covers": [
+                    "Kohane Azusawa",
+                    "An Shiraishi"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1542329865353195521"
+    },
+    "2022-07-11": {
+        "songs": [
+            {
+                "name": "Ame to Petra",
+                "covers": [
+                    "Megurine Luka",
+                    "MEIKO"
+                ]
+            },
+            {
+                "name": "Peaky Peaky",
+                "covers": [
+                    "Saki Tenma",
+                    "Honami Mochizuki",
+                    "Shiho Hinomori"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1546315367668391937"
+    },
+    "2022-07-21": {
+        "songs": [
+            {
+                "name": "Pulse of the Meteor",
+                "covers": [
+                    "Ichika Hoshino",
+                    "Shiho Hinomori"
+                ]
+            },
+            {
+                "name": "Stella",
+                "covers": [
+                    "Hatsune Miku (Virtual Singer Ver.)"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1549938782585372672"
+    },
+    "2022-07-30": {
+        "songs": [
+            {
+                "name": "Chikyuu Saigo no Kokuhaku o",
+                "covers": [
+                    "MEIKO"
+                ]
+            },
+            {
+                "name": "Gekkou",
+                "covers": [
+                    "Hatsune Miku, Kagamine Rin (Virtual Singer Ver.)"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1553204687029280768"
+    },
+    "2022-08-18": {
+        "songs": [
+            {
+                "name": "Made-to-Order",
+                "covers": [
+                    "Megurine Luka"
+                ]
+            },
+            {
+                "name": "Mousou Kanshou Daishou Renmei",
+                "covers": [
+                    "Kanade Yoisaki",
+                    "Ena Shinonome"
+                ]
+            },
+            {
+                "name": "Gunjou Sanka",
+                "covers": [
+                    "Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1560086610242596865"
+    },
+    "2022-08-31": {
+        "songs": [
+            {
+                "name": "Shoujorei",
+                "covers": [
+                    "Haruka Kiritani",
+                    "Shizuku Hinomori"
+                ]
+            },
+            {
+                "name": "Alien Alien",
+                "covers": [
+                    "Emu Otori"
+                ]
+            },
+            {
+                "name": "If",
+                "covers": [
+                    "Hatsune Miku (Virtual Singer Ver.)",
+                    "Minori Hanasato",
+                    "Haruka Kiritani"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1564797980154417153"
+    },
+    "2022-09-08": {
+        "songs": [
+            {
+                "name": "STAGE OF SEKAI",
+                "covers": [
+                    "Ichika Hoshino",
+                    "Saki Tenma",
+                    "Honami Mochizuki",
+                    "Shiho Hinomori"
+                ]
+            },
+            {
+                "name": "Hoshizora no Melody",
+                "covers": [
+                    "Hatsune Miku, Kagamine Rin, Kagamine Len, MEIKO, KAITO (Virtual Singer Ver.)"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1568006156102279170"
+    },
+    "2022-09-20": {
+        "songs": [
+            {
+                "name": "PaⅢ.SENSATION",
+                "covers": [
+                    "An Shiraishi"
+                ]
+            },
+            {
+                "name": "Bug",
+                "covers": [
+                    "Hatsune Miku (Virtual Singer Ver.)",
+                    "Mafuyu Asahina",
+                    "Ena Shinonome",
+                    "Mizuki Akiyama"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1572045921470525440"
+    },
+    "2022-09-29": {
+        "songs": [
+            {
+                "name": "Beat Eater",
+                "covers": [
+                    "Kagamine Rin",
+                    "KAITO"
+                ]
+            },
+            {
+                "name": "Aoku Kakero!",
+                "covers": [
+                    "Hatsune Miku (Virtual Singer Ver.)"
+                ]
+            },
+            {
+                "name": "Composing the Future",
+                "covers": [
+                    "Hatsune Miku (Virtual Singer Ver.)"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1575293800440025090"
+    },
+    "2022-10-12": {
+        "songs": [
+            {
+                "name": "Airhead",
+                "covers": [
+                    "Akito Shinonome"
+                ]
+            },
+            {
+                "name": "Kami no Manimani",
+                "covers": [
+                    "Tsukasa Tenma",
+                    "Emu Otori",
+                    "Nene Kusanagi",
+                    "Rui Kamishiro"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1580027116258590722"
+    },
+    "2022-10-21": {
+        "songs": [
+            {
+                "name": "Parasol Cider",
+                "covers": [
+                    "Airi Momoi"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1583277840216514560"
+    },
+    "2022-10-31": {
+        "songs": [
+            {
+                "name": "Vampire",
+                "covers": [
+                    "Minori Hanasato",
+                    "Airi Momoi"
+                ]
+            },
+            {
+                "name": "Awake Now",
+                "covers": [
+                    "Kohane Azusawa",
+                    "An Shirashi"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1586904244812414977"
+    },
+    "2022-11-11": {
+        "songs": [
+            {
+                "name": "Gekkou",
+                "covers": [
+                    "Akito Shinonome",
+                    "Toya Aoyagi"
+                ]
+            },
+            {
+                "name": "kimi no yoruwo kure",
+                "covers": [
+                    "Mizuki Akiyama"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1590888281990139904"
+    },
+    "2022-11-30": {
+        "songs": [
+            {
+                "name": "Made-to-Order",
+                "covers": [
+                    "Ichika Hoshino",
+                    "Saki Tenma"
+                ]
+            },
+            {
+                "name": "Meru",
+                "covers": [
+                    "Kanade Yoisaki",
+                    "Mafuyu Asahina"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1597776761236094976"
+    },
+    "2022-12-09": {
+        "songs": [
+            {
+                "name": "Teratera",
+                "covers": [
+                    "Hatsune Miku (Virtual Singer Ver.)",
+                    "Saki Tenma"
+                ]
+            },
+            {
+                "name": "Torinoko City",
+                "covers": [
+                    "Haruka Kiritani",
+                    "Kagamine Rin, Kagamine Len"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1601036408352817153"
+    },
+    "2022-12-21": {
+        "songs": [
+            {
+                "name": "Cellphone Love Story",
+                "covers": [
+                    "Hatsune Miku"
+                ]
+            },
+            {
+                "name": "I Nandesu",
+                "covers": [
+                    "Ena Shinonome"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1605384768866381825"
+    },
+    "2022-12-28": {
+        "songs": [
+            {
+                "name": "Aishite Aishite Aishite",
+                "covers": [
+                    "Mafuyu Asahina",
+                    "Ena Shinonome"
+                ]
+            },
+            {
+                "name": "Amanojaku",
+                "covers": [
+                    "Shiho Hinomori"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1607920645525880832"
+    }
+}

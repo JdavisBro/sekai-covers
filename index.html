@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Project Sekai EN Upcoming Covers</title>
+</head>
+<body>
+    <h1>Project Sekai EN Upcoming Covers</h1>
+    <h2>
+        <label for="char">Character Filter:</label>
+        <select id="char" name="char" onchange="updateTable()">
+        </select>
+    </h2>
+    <h3>Found an issue: <a href="https://github.com/JdavisBro/sekai-covers/issues/">report here</a></h3>
+    <table id="covertable">
+        <tr>
+            <th>Song Name</th>
+            <th>Cover Singers</th>
+            <th>JP Release Date</th>
+            <th>Twitter Announcement Link</th>
+            <th>Song Wiki Link</th>
+        </tr>
+    </table>
+    <script src="index.js"></script>
+</body>
+</html>
