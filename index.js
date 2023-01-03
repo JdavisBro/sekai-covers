@@ -48,9 +48,13 @@ function updateTable() {
                 tr.appendChild(td)
                 var td = document.createElement("td");
                 var a = document.createElement("a");
-                a.href = annoucement
-                a.innerText = "Twitter"
-                a.target = "_blank"
+                if (data[date].songs[i].hasOwnProperty("release") && data[date].songs[i].release) {
+                    a.innerText = "None"
+                } else {
+                    a.href = annoucement
+                    a.innerText = "Twitter"
+                    a.target = "_blank"
+                }
                 td.appendChild(a)
                 tr.appendChild(td)
                 var td = document.createElement("td");

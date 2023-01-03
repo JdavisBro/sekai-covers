@@ -24,9 +24,42 @@
                 "covers": [
                     "Hatsune Miku, Megurine Luka"
                 ]
+            },
+            {
+                "name": "Tricologe",
+                "covers": [
+                    "Hatsune Miku"
+                ],
+                "release": true
             }
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1484386041616551937"
+    },
+    "2022-01-30": {
+        "songs": [
+            {
+                "name": "Usseewa",
+                "covers": [
+                    "Mafuyu Asahina",
+                    "Mizuki Akiyama"
+                ],
+                "release": true
+            }
+        ],
+        "announcement": ""
+    },
+    "2022-02-04": {
+        "songs": [
+            {
+                "name": "Odo",
+                "covers": [
+                    "Kohane Azusawa",
+                    "An Shiraishi"
+                ],
+                "release": true
+            }
+        ],
+        "announcement": ""
     },
     "2022-02-09": {
         "songs": [
@@ -58,6 +91,19 @@
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1494532030641897473"
     },
+    "2022-02-24": {
+        "songs": [
+            {
+                "name": "Nonsense Bungaku",
+                "covers": [
+                    "Tsukasa Tenma",
+                    "Rui Kamishiro"
+                ],
+                "release": true
+            }
+        ],
+        "announcement": ""
+    },
     "2022-02-28": {
         "songs": [
             {
@@ -69,6 +115,43 @@
             }
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1498155532108300291"
+    },
+    "2022-03-02": {
+        "songs": [
+            {
+                "name": "Kokoroyohou",
+                "covers": [
+                    "Minori Hanasato, Haruka Kiritani",
+                    "Airi Momoi, Shizuku Hinomori"
+                ],
+                "release": true
+            }
+        ],
+        "announcement": ""
+    },
+    "2022-03-03": {
+        "songs": [
+            {
+                "name": "Bokura Mada Underground",
+                "covers": [
+                    "Shiho Hinomori"
+                ],
+                "release": true
+            }
+        ],
+        "announcement": ""
+    },
+    "2022-03-15": {
+        "songs": [
+            {
+                "name": "Yī Èr Fanclub",
+                "covers": [
+                    "Tsukasa Tenma, Emu Otori"
+                ],
+                "release": true
+            }
+        ],
+        "announcement": ""
     },
     "2022-03-30": {
         "songs": [
@@ -171,6 +254,18 @@
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1535080895367233536"
     },
+    "2022-06-13": {
+        "songs": [
+            {
+                "name": "Goodbye Sengen",
+                "covers": [
+                    "Nene Kusanagi, Rui Kamishiro"
+                ],
+                "release": true
+            }
+        ],
+        "announcement": ""
+    },
     "2022-06-20": {
         "songs": [
             {
@@ -188,6 +283,19 @@
             }
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1593424457007132672"
+    },
+    "2022-06-28": {
+        "songs": [
+            {
+                "name": "Hoshizora no Melody",
+                "covers": [
+                    "Emu Otori",
+                    "Nene Kusanagi"
+                ],
+                "release": true
+            }
+        ],
+        "announcement": ""
     },
     "2022-06-30": {
         "songs": [
@@ -227,6 +335,18 @@
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1546315367668391937"
     },
+    "2022-07-19": {
+        "songs": [
+            {
+                "name": "Machi",
+                "covers": [
+                    "An Shiraishi"    
+                ],
+                "release": true
+            }
+        ],
+        "announcement": ""
+    },
     "2022-07-21": {
         "songs": [
             {
@@ -262,6 +382,23 @@
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1553204687029280768"
     },
+    "2022-08-10": {
+        "songs": [
+            {
+                "name": "Worldwide Wander",
+                "covers": [
+                    "Minori Hanasato"
+                ]
+            },
+            {
+                "name": "RAD DOGS",
+                "covers": [
+                    "Hatsune Miku, Kagamine Rin, Kagamine Len (Virtual Singer Ver.)"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1557186542221033472"
+    },
     "2022-08-18": {
         "songs": [
             {
@@ -289,7 +426,7 @@
     "2022-08-31": {
         "songs": [
             {
-                "name": "Shoujorei",
+                "name": "Shoujo Rei",
                 "covers": [
                     "Haruka Kiritani",
                     "Shizuku Hinomori"
@@ -311,6 +448,18 @@
             }
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1564797980154417153"
+    },
+    "2022-09-07": {
+        "songs": [
+            {
+                "name": "Voices",
+                "covers": [
+                    "Shiho Hinomori"
+                ],
+                "release": true
+            }
+        ],
+        "announcement": ""
     },
     "2022-09-08": {
         "songs": [
@@ -376,6 +525,22 @@
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1575293800440025090"
     },
+    "2022-09-30": {
+        "songs": [
+            {
+                "name": "Journey",
+                "covers": [
+                    "Ichika Hoshino",
+                    "Minori Hanasato",
+                    "Kohane Azusawa",
+                    "Tsukasa Tenma",
+                    "Kanade Yoisaki"
+                ],
+                "release": true
+            }
+        ],
+        "announcement": ""
+    },
     "2022-10-12": {
         "songs": [
             {
@@ -420,7 +585,7 @@
                 "name": "Awake Now",
                 "covers": [
                     "Kohane Azusawa",
-                    "An Shirashi"
+                    "An Shiraishi"
                 ]
             }
         ],
