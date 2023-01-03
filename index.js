@@ -2,12 +2,13 @@ var data = {}
 
 var chars = [
     "All",
-    "Hatsune Miku", "Kagamine Rin", "Kagamine Len", "Megurine Luka", "MEIKO", "KAITO",
-    "Ichika Hoshino", "Saki Tenma", "Honami Mochizuki", "Shiho Hinomori",
-    "Minori Hanasato", "Haruka Kiritani", "Airi Momoi", "Shizuku Hinomori",
-    "Kohane Azusawa", "An Shiraishi", "Akito Shinonome", "Toya Aoyagi",
-    "Tsukasa Tenma", "Emu Otori", "Nene Kusanagi", "Rui Kamishiro",
-    "Kanade Yoisaki", "Mafuyu Asahina", "Ena Shinonome", "Mizuki Akiyama"
+    "Hatsune Miku", "Kagamine Rin", "Kagamine Len", "Megurine Luka", "MEIKO", "KAITO", // Piapro Vocaloids
+    "Ichika Hoshino", "Saki Tenma", "Honami Mochizuki", "Shiho Hinomori", // Leo/need
+    "Minori Hanasato", "Haruka Kiritani", "Airi Momoi", "Shizuku Hinomori", // MORE MORE JUMP!
+    "Kohane Azusawa", "An Shiraishi", "Akito Shinonome", "Toya Aoyagi", // Vivd Bad SQUAD
+    "Tsukasa Tenma", "Emu Otori", "Nene Kusanagi", "Rui Kamishiro", // Wonderlands x Showtime
+    "Kanade Yoisaki", "Mafuyu Asahina", "Ena Shinonome", "Mizuki Akiyama", // Nightcord at 25:00
+    "flower" // Other Vocaloids
 ]
 
 var charsel = document.getElementById("char")
