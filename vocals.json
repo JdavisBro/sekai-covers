@@ -14,18 +14,6 @@
     "2022-01-21": {
         "songs": [
             {
-                "name": "Worldwide Wander",
-                "covers": [
-                    "Hatsune Miku (Virtual Singer Ver.)"
-                ]
-            },
-            {
-                "name": "Teo",
-                "covers": [
-                    "Hatsune Miku, Megurine Luka"
-                ]
-            },
-            {
                 "name": "Tricologe",
                 "covers": [
                     "Hatsune Miku"
@@ -60,36 +48,6 @@
             }
         ],
         "announcement": ""
-    },
-    "2022-02-09": {
-        "songs": [
-            {
-                "name": "Charles",
-                "covers": [
-                    "Kagamine Len, KAITO"
-                ]
-            },
-            {
-                "name": "Mirai",
-                "covers": [
-                    "Hatsune Miku (Virtual Singer Ver.)",
-                    "Akito Shinonome",
-                    "Toya Aoyagi"
-                ]
-            }
-        ],
-        "announcement": "https://twitter.com/pj_sekai/status/1491271659676114944"
-    },
-    "2022-02-18": {
-        "songs": [
-            {
-                "name": "Kanadetomosusora",
-                "covers": [
-                    "Hatsune Miku (Virtual Singer Ver.)"
-                ]
-            }
-        ],
-        "announcement": "https://twitter.com/pj_sekai/status/1494532030641897473"
     },
     "2022-02-24": {
         "songs": [
@@ -153,43 +111,8 @@
         ],
         "announcement": ""
     },
-    "2022-03-30": {
-        "songs": [
-            {
-                "name": "Lost One's Weeping",
-                "covers": [
-                    "Kagamine Len"
-                ]
-            }
-        ],
-        "announcement": "https://twitter.com/pj_sekai/status/1509026560258371584"
-    },
-    "2022-04-21": {
-        "songs": [
-            {
-                "name": "Dance Robot Dance",
-                "covers": [
-                    "Hatsune Miku, Kagamine Rin, Megurine Luka (Virtual Singer Ver.)"
-                ]
-            },
-            {
-                "name": "Ghost Rule",
-                "covers": [
-                    "Kagamine Rin, Kagamine Len",
-                    "Megurine Luka, MEIKO"
-                ]
-            }
-        ],
-        "announcement": "https://twitter.com/pj_sekai/status/1516965327967780864"
-    },
     "2022-05-10": {
         "songs": [
-            {
-                "name": "Hibana -Reloaded-",
-                "covers": [
-                    "Kagamine Rin"
-                ]
-            },
             {
                 "name": "Peaky Peaky",
                 "covers": [
@@ -417,7 +340,7 @@
             {
                 "name": "Gunjou Sanka",
                 "covers": [
-                    "Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO"
+                    "Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO, KAITO (Virtual Singer Ver.)"
                 ]
             }
         ],
