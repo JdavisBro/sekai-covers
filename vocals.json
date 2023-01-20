@@ -603,5 +603,23 @@
             }
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1612637591731572736"
+    },
+    "2023-01-20": {
+        "songs": [
+            {
+                "name": "Float Planner",
+                "covers": [
+                    "Haruka Kiritani",
+                    "Shizuku Hinomori"
+                ]
+            },
+            {
+                "name": "Romeo & Cinderella",
+                "covers": [
+                    "Kagamine Rin, Megurine Luka, MEIKO (Virtual Singer Ver.)"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1616257579461775362"
     }
 }

@@ -59,7 +59,7 @@ function updateTable() {
                 tr.appendChild(td)
                 var td = document.createElement("td");
                 var a = document.createElement("a");
-                a.href = "https://projectsekai.fandom.com/wiki/" + name
+                a.href = "https://projectsekai.fandom.com/wiki/" + name.replaceAll(" ", "_")
                 a.innerText = "Fandom"
                 a.target = "_blank"
                 td.appendChild(a)
