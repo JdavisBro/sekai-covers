@@ -589,5 +589,16 @@
             }
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1616257579461775362"
+    },
+    "2023-01-31": {
+        "songs": [
+            {
+                "name": "Voices",
+                "covers": [
+                    "Kagamine Rin"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1620242142684917760"
     }
 }
