@@ -587,5 +587,22 @@
             }
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1620242142684917760"
+    },
+    "2023-02-10": {
+        "songs": [
+            {
+                "name": "Theme of Niccori Survey Team",
+                "covers": [
+                    "Hatsune Miku, Megurine Luka"
+                ]
+            },
+            {
+                "name": "Literary nonsense",
+                "covers": [
+                    "KAITO"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1623868805138235392"
     }
 }
