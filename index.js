@@ -8,7 +8,7 @@ var chars = [
     "Kohane Azusawa", "An Shiraishi", "Akito Shinonome", "Toya Aoyagi", // Vivd Bad SQUAD
     "Tsukasa Tenma", "Emu Otori", "Nene Kusanagi", "Rui Kamishiro", // Wonderlands x Showtime
     "Kanade Yoisaki", "Mafuyu Asahina", "Ena Shinonome", "Mizuki Akiyama", // Nightcord at 25:00
-    "flower" // Other Vocaloids
+//    "flower" // Other Vocaloids (currently none)
 ]
 
 var charsel = document.getElementById("char")

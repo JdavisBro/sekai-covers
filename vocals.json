@@ -592,5 +592,18 @@
             }
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1623868805138235392"
+    },
+    "2023-02-17": {
+        "songs": [
+            {
+                "name": "Odore Orchestra",
+                "covers": [
+                    "Emu Otori",
+                    "Nene Kusanagi",
+                    "Rui Kamishiro"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1626404427719671808"
     }
 }
