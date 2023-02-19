@@ -49,16 +49,17 @@
         ],
         "announcement": ""
     },
-    "2022-05-10": {
+    "2022-03-28": {
         "songs": [
             {
-                "name": "Peaky Peaky",
+                "name": "Nomad",
                 "covers": [
-                    "Hatsune Miku, Kagamine Rin (Virtual Singer Ver.)"
-                ]
+                    "Hatsune Miku"
+                ],
+                "release": true
             }
         ],
-        "announcement": "https://twitter.com/pj_sekai/status/1523847367744974848"
+        "announcement": ""
     },
     "2022-05-20": {
         "songs": [
@@ -258,7 +259,7 @@
             {
                 "name": "Made-to-Order",
                 "covers": [
-                    "Megurine Luka"
+                    "Megurine Luka (Virtual Singer Ver.)"
                 ]
             },
             {

@@ -1,7 +1,7 @@
 var data = {}
 
 var chars = [
-    "All",
+    "All", "Virtual Singer Ver.",
     "Hatsune Miku", "Kagamine Rin", "Kagamine Len", "Megurine Luka", "MEIKO", "KAITO", // Piapro Vocaloids
     "Ichika Hoshino", "Saki Tenma", "Honami Mochizuki", "Shiho Hinomori", // Leo/need
     "Minori Hanasato", "Haruka Kiritani", "Airi Momoi", "Shizuku Hinomori", // MORE MORE JUMP!
@@ -33,8 +33,9 @@ function updateTable() {
             var name = data[date].songs[i].name
             for (let ii=0; ii < data[date].songs[i].covers.length; ii++) {
                 var singers = data[date].songs[i].covers[ii]
-                if (charsel.value != "All" && !singers.includes(charsel.value)) {
-                    continue
+                if (charsel.value != "All") {
+                    if (charsel.value != "Virtual Singer Ver.") {if (singers.includes("Virtual Singer Ver.")) {continue}} // Not Virtual Singer Ver. selected do not show Virtual Singer Vers
+                    if (!singers.includes(charsel.value)) {continue} // Do not show non selected chars
                 }
                 var tr = document.createElement("tr");
                 var td = document.createElement("td");
