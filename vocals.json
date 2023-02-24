@@ -1,17 +1,4 @@
 {
-    "2022-02-24": {
-        "songs": [
-            {
-                "name": "Literary nonsense",
-                "covers": [
-                    "Tsukasa Tenma",
-                    "Rui Kamishiro"
-                ],
-                "release": true
-            }
-        ],
-        "announcement": ""
-    },
     "2022-03-02": {
         "songs": [
             {
@@ -28,7 +15,7 @@
     "2022-03-03": {
         "songs": [
             {
-                "name": "Bokura Mada Underground",
+                "name": "We're Still Underground",
                 "covers": [
                     "Shiho Hinomori"
                 ],
@@ -40,7 +27,7 @@
     "2022-03-15": {
         "songs": [
             {
-                "name": "Yī Èr Fanclub",
+                "name": "1, 2, Fanclub",
                 "covers": [
                     "Tsukasa Tenma, Emu Otori"
                 ],
@@ -93,7 +80,7 @@
     "2022-06-10": {
         "songs": [
             {
-                "name": "Ame to Petra",
+                "name": "Rain and Petra",
                 "covers": [
                     "Toya Aoyagi"
                 ]
@@ -173,7 +160,7 @@
     "2022-07-11": {
         "songs": [
             {
-                "name": "Ame to Petra",
+                "name": "Rain and Petra",
                 "covers": [
                     "Megurine Luka",
                     "MEIKO"
