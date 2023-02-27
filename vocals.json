@@ -1,18 +1,5 @@
 {
-    "2022-03-02": {
-        "songs": [
-            {
-                "name": "Heart Forecast",
-                "covers": [
-                    "Minori Hanasato, Haruka Kiritani",
-                    "Airi Momoi, Shizuku Hinomori"
-                ],
-                "release": true
-            }
-        ],
-        "announcement": ""
-    },
-    "2022-03-03": {
+    "2022-03-04 (EN)": {
         "songs": [
             {
                 "name": "We're Still Underground",
@@ -24,7 +11,7 @@
         ],
         "announcement": ""
     },
-    "2022-03-15": {
+    "2022-03-14 (EN)": {
         "songs": [
             {
                 "name": "1, 2, Fanclub",
@@ -36,7 +23,7 @@
         ],
         "announcement": ""
     },
-    "2022-03-28": {
+    "2022-03-28 (EN)": {
         "songs": [
             {
                 "name": "Nomad",

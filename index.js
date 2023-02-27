@@ -26,7 +26,7 @@ function updateData(dataNew) {
 
 function updateTable() {
     var table = document.getElementById("covertable");
-    table.innerHTML = "<tr><th>Song Name</th><th>Cover Singers</th><th>JP Release Date</th><th>Twitter Announcement Link</th><th>Song Wiki Link</th></tr>"
+    table.innerHTML = "<tr><th>Song Name</th><th>Cover Singers</th><th>JP Release /<br>Confirmed EN Release</th><th>Twitter Announcement Link</th><th>Song Wiki Link</th></tr>"
     for (var date in data) {
         var annoucement = data[date].announcement
         for (let i = 0; i < data[date].songs.length; i++) {
