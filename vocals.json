@@ -580,5 +580,16 @@
             }
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1626404427719671808"
+    },
+    "2023-02-28": {
+        "songs": [
+            {
+                "name": "Utsuro wo Aogu",
+                "covers": [
+                    "Toya Aoyagi"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pj_sekai/status/1630390916660989952"
     }
 }
