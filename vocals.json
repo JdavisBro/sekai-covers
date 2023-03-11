@@ -1,16 +1,4 @@
 {
-    "2022-03-04 (EN)": {
-        "songs": [
-            {
-                "name": "We're Still Underground",
-                "covers": [
-                    "Shiho Hinomori"
-                ],
-                "release": true
-            }
-        ],
-        "announcement": ""
-    },
     "2022-03-14 (EN)": {
         "songs": [
             {
@@ -591,5 +579,16 @@
             }
         ],
         "announcement": "https://twitter.com/pj_sekai/status/1630390916660989952"
+    },
+    "2023-03-11": {
+        "songs" : [
+            {
+                "name": "Gekkou",
+                "covers": [
+                    "MEIKO"
+                ]
+            }
+        ],
+        "announcement": "https://twitter.com/pjsekai_eng/status/1634072020836311040"
     }
 }
